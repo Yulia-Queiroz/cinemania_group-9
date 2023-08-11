@@ -2,7 +2,7 @@
   "name": "cinemania_group",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ZakZanko.github.io/cinemania_group-9",
+  "homepage": "https://Yulia-Queiroz.github.io/cinemania_group-9",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /cinemania_group-9/"
